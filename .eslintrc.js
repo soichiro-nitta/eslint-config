@@ -1,3 +1,3 @@
 module.exports = {
-  extends: './src/presets/prettier.js',
+  extends: './presets/prettier.js',
 }
