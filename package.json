@@ -2,7 +2,7 @@
   "name": "@soichiro_nitta/eslint-config",
   "version": "0.0.3",
   "description": "",
-  "main": "src/index.js",
+  "main": "index.js",
   "author": "Soichiro Nitta <soic1226@gmail.com>",
   "license": "ISC",
   "publishConfig": {
