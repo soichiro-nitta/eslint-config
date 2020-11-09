@@ -1,6 +1,6 @@
 # @soichiro_nitta/eslint-config
 
-ESLintの設定をパッケージ化し、npmを介して利用できるよう作成しました。
+ESLintの設定をパッケージ化しました。
 
 https://www.npmjs.com/package/@soichiro_nitta/eslint-config
 
