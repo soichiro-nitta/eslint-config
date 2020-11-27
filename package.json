@@ -19,10 +19,11 @@
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-prettier": "^3.1.4",
     "eslint-plugin-react": "^7.20.6",
-    "eslint-plugin-react-hooks": "^4.1.0"
+    "eslint-plugin-react-hooks": "^4.1.0",
+    "eslint-plugin-simple-import-sort": "^6.0.1"
   },
   "devDependencies": {
-    "@soichiro_nitta/prettier-config": "^0.0.7",
+    "@soichiro_nitta/prettier-config": "^0.0.9",
     "eslint": "^7.9.0",
     "prettier": "^2.1.2"
   }
