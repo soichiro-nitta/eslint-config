@@ -22,7 +22,8 @@
     "eslint-plugin-react": "^7.20.6",
     "eslint-plugin-react-hooks": "^4.1.0",
     "eslint-plugin-simple-import-sort": "^6.0.1",
-    "eslint-plugin-sort-destructure-keys": "^1.3.5"
+    "eslint-plugin-sort-destructure-keys": "^1.3.5",
+    "eslint-plugin-sort-keys-fix": "^1.1.1"
   },
   "devDependencies": {
     "@soichiro_nitta/prettier-config": "^0.0.9",
